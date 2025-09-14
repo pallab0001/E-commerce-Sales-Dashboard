@@ -1,7 +1,7 @@
 # 📊 Ecommerce Sales Dashboard – Power BI
 
-![Ecommerce Sales Dashboard](<img width="888" height="498" alt="Image" src="https://github.com/user-attachments/assets/acf655f4-4fcf-4efe-ad49-0ca2cda193de" />)
-
+![Ecommerce Sales Dashboard]()
+<img width="888" height="498" alt="Image" src="https://github.com/user-attachments/assets/acf655f4-4fcf-4efe-ad49-0ca2cda193de" />
 ## 📌 Project Overview
 This **Power BI Ecommerce Sales Dashboard** provides an interactive view of sales performance, profitability, and customer behavior.  
 It helps businesses track KPIs, identify trends, and make data-driven decisions.
